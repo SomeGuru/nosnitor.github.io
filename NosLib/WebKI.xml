@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AssemblyExtension class">
+    <HelpKINode Title="AssemblyExtension Class" Url="html/T_Nosnitor_AssemblyExtension.htm" />
+    <HelpKINode Title="about AssemblyExtension class" Url="html/T_Nosnitor_AssemblyExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_AssemblyExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyExtension.GetAssemblyCompany method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCompany.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyConfiguration method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyConfiguration.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyCopyright method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCopyright.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyDefaultAlias method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyDefaultAlias.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyDescription method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyDescription.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyFileVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyFileVersion.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyInformationalVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyInformationalVersion.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyProduct method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyProduct.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyTitle method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTitle.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyTrademark method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTrademark.htm" />
+  <HelpKINode Title="AssemblyExtension.GetAssemblyVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyVersion.htm" />
+  <HelpKINode Title="ByteArrayCompare method" Url="html/M_Nosnitor_Comparison_ByteArrayCompare.htm" />
+  <HelpKINode Title="CombineByteArray method" Url="html/M_Nosnitor_Manipulation_CombineByteArray.htm" />
+  <HelpKINode Title="Comparison class">
+    <HelpKINode Title="Comparison Class" Url="html/T_Nosnitor_Comparison.htm" />
+    <HelpKINode Title="about Comparison class" Url="html/T_Nosnitor_Comparison.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_Comparison.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Comparison.ByteArrayCompare method" Url="html/M_Nosnitor_Comparison_ByteArrayCompare.htm" />
+  <HelpKINode Title="Comparison.IsHexString method" Url="html/M_Nosnitor_Comparison_IsHexString.htm" />
+  <HelpKINode Title="Conversion class">
+    <HelpKINode Title="Conversion Class" Url="html/T_Nosnitor_Conversion.htm" />
+    <HelpKINode Title="about Conversion class" Url="html/T_Nosnitor_Conversion.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_Conversion.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Conversion.HexStringToByteArray method" Url="html/M_Nosnitor_Conversion_HexStringToByteArray.htm" />
+  <HelpKINode Title="EnumerationExtension class">
+    <HelpKINode Title="EnumerationExtension Class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
+    <HelpKINode Title="about EnumerationExtension class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_EnumerationExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumerationExtension.GetValues(Of T) method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
+  <HelpKINode Title="EnumerationExtension.GetValues&lt;T&gt; method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
+  <HelpKINode Title="GetAssemblyCompany method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCompany.htm" />
+  <HelpKINode Title="GetAssemblyConfiguration method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyConfiguration.htm" />
+  <HelpKINode Title="GetAssemblyCopyright method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCopyright.htm" />
+  <HelpKINode Title="GetAssemblyDefaultAlias method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyDefaultAlias.htm" />
+  <HelpKINode Title="GetAssemblyDescription method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyDescription.htm" />
+  <HelpKINode Title="GetAssemblyFileVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyFileVersion.htm" />
+  <HelpKINode Title="GetAssemblyInformationalVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyInformationalVersion.htm" />
+  <HelpKINode Title="GetAssemblyProduct method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyProduct.htm" />
+  <HelpKINode Title="GetAssemblyTitle method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTitle.htm" />
+  <HelpKINode Title="GetAssemblyTrademark method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTrademark.htm" />
+  <HelpKINode Title="GetAssemblyVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyVersion.htm" />
+  <HelpKINode Title="GetStringResourceByName method" Url="html/M_Nosnitor_ResourceManagerExtension_GetStringResourceByName.htm" />
+  <HelpKINode Title="GetValues(Of T) method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
+  <HelpKINode Title="GetValues&lt;T&gt; method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
+  <HelpKINode Title="HexStringToByteArray method" Url="html/M_Nosnitor_Conversion_HexStringToByteArray.htm" />
+  <HelpKINode Title="IsHexString method" Url="html/M_Nosnitor_Comparison_IsHexString.htm" />
+  <HelpKINode Title="Manipulation class">
+    <HelpKINode Title="Manipulation Class" Url="html/T_Nosnitor_Manipulation.htm" />
+    <HelpKINode Title="about Manipulation class" Url="html/T_Nosnitor_Manipulation.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_Manipulation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Manipulation.CombineByteArray method" Url="html/M_Nosnitor_Manipulation_CombineByteArray.htm" />
+  <HelpKINode Title="Nosnitor namespace" Url="html/N_Nosnitor.htm" />
+  <HelpKINode Title="Nosnitor.AssemblyExtension class" Url="html/T_Nosnitor_AssemblyExtension.htm" />
+  <HelpKINode Title="Nosnitor.Comparison class" Url="html/T_Nosnitor_Comparison.htm" />
+  <HelpKINode Title="Nosnitor.Conversion class" Url="html/T_Nosnitor_Conversion.htm" />
+  <HelpKINode Title="Nosnitor.EnumerationExtension class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
+  <HelpKINode Title="Nosnitor.Manipulation class" Url="html/T_Nosnitor_Manipulation.htm" />
+  <HelpKINode Title="Nosnitor.ResourceManagerExtension class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
+  <HelpKINode Title="ResourceManagerExtension class">
+    <HelpKINode Title="ResourceManagerExtension Class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
+    <HelpKINode Title="about ResourceManagerExtension class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_ResourceManagerExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResourceManagerExtension.GetStringResourceByName method" Url="html/M_Nosnitor_ResourceManagerExtension_GetStringResourceByName.htm" />
+</HelpKI>
