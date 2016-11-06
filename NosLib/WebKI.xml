@@ -38,6 +38,13 @@
   </HelpKINode>
   <HelpKINode Title="EnumerationExtension.GetValues(Of T) method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
   <HelpKINode Title="EnumerationExtension.GetValues&lt;T&gt; method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
+  <HelpKINode Title="FileExtension class">
+    <HelpKINode Title="FileExtension Class" Url="html/T_Nosnitor_FileExtension.htm" />
+    <HelpKINode Title="about FileExtension class" Url="html/T_Nosnitor_FileExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_FileExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileExtension.GetFileMD5Hash method" Url="html/M_Nosnitor_FileExtension_GetFileMD5Hash.htm" />
+  <HelpKINode Title="FileExtension.GetFileMD5HashString method" Url="html/M_Nosnitor_FileExtension_GetFileMD5HashString.htm" />
   <HelpKINode Title="GetAssemblyCompany method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCompany.htm" />
   <HelpKINode Title="GetAssemblyConfiguration method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyConfiguration.htm" />
   <HelpKINode Title="GetAssemblyCopyright method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCopyright.htm" />
@@ -49,6 +56,8 @@
   <HelpKINode Title="GetAssemblyTitle method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTitle.htm" />
   <HelpKINode Title="GetAssemblyTrademark method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTrademark.htm" />
   <HelpKINode Title="GetAssemblyVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyVersion.htm" />
+  <HelpKINode Title="GetFileMD5Hash method" Url="html/M_Nosnitor_FileExtension_GetFileMD5Hash.htm" />
+  <HelpKINode Title="GetFileMD5HashString method" Url="html/M_Nosnitor_FileExtension_GetFileMD5HashString.htm" />
   <HelpKINode Title="GetStringResourceByName method" Url="html/M_Nosnitor_ResourceManagerExtension_GetStringResourceByName.htm" />
   <HelpKINode Title="GetValues(Of T) method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
   <HelpKINode Title="GetValues&lt;T&gt; method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
@@ -65,6 +74,7 @@
   <HelpKINode Title="Nosnitor.Comparison class" Url="html/T_Nosnitor_Comparison.htm" />
   <HelpKINode Title="Nosnitor.Conversion class" Url="html/T_Nosnitor_Conversion.htm" />
   <HelpKINode Title="Nosnitor.EnumerationExtension class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
+  <HelpKINode Title="Nosnitor.FileExtension class" Url="html/T_Nosnitor_FileExtension.htm" />
   <HelpKINode Title="Nosnitor.Manipulation class" Url="html/T_Nosnitor_Manipulation.htm" />
   <HelpKINode Title="Nosnitor.ResourceManagerExtension class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
   <HelpKINode Title="ResourceManagerExtension class">
