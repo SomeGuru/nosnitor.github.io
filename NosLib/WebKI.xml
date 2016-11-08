@@ -16,21 +16,15 @@
   <HelpKINode Title="AssemblyExtension.GetAssemblyTitle method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTitle.htm" />
   <HelpKINode Title="AssemblyExtension.GetAssemblyTrademark method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyTrademark.htm" />
   <HelpKINode Title="AssemblyExtension.GetAssemblyVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyVersion.htm" />
-  <HelpKINode Title="ByteArrayCompare method" Url="html/M_Nosnitor_Comparison_ByteArrayCompare.htm" />
-  <HelpKINode Title="CombineByteArray method" Url="html/M_Nosnitor_Manipulation_CombineByteArray.htm" />
-  <HelpKINode Title="Comparison class">
-    <HelpKINode Title="Comparison Class" Url="html/T_Nosnitor_Comparison.htm" />
-    <HelpKINode Title="about Comparison class" Url="html/T_Nosnitor_Comparison.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_Comparison.htm" />
+  <HelpKINode Title="ByteArrayHelper class">
+    <HelpKINode Title="ByteArrayHelper Class" Url="html/T_Nosnitor_ByteArrayHelper.htm" />
+    <HelpKINode Title="about ByteArrayHelper class" Url="html/T_Nosnitor_ByteArrayHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_ByteArrayHelper.htm" />
   </HelpKINode>
-  <HelpKINode Title="Comparison.ByteArrayCompare method" Url="html/M_Nosnitor_Comparison_ByteArrayCompare.htm" />
-  <HelpKINode Title="Comparison.IsHexString method" Url="html/M_Nosnitor_Comparison_IsHexString.htm" />
-  <HelpKINode Title="Conversion class">
-    <HelpKINode Title="Conversion Class" Url="html/T_Nosnitor_Conversion.htm" />
-    <HelpKINode Title="about Conversion class" Url="html/T_Nosnitor_Conversion.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_Conversion.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Conversion.HexStringToByteArray method" Url="html/M_Nosnitor_Conversion_HexStringToByteArray.htm" />
+  <HelpKINode Title="ByteArrayHelper.Combine method" Url="html/M_Nosnitor_ByteArrayHelper_Combine.htm" />
+  <HelpKINode Title="ByteArrayHelper.Compare method" Url="html/M_Nosnitor_ByteArrayHelper_Compare.htm" />
+  <HelpKINode Title="Combine method" Url="html/M_Nosnitor_ByteArrayHelper_Combine.htm" />
+  <HelpKINode Title="Compare method" Url="html/M_Nosnitor_ByteArrayHelper_Compare.htm" />
   <HelpKINode Title="EnumerationExtension class">
     <HelpKINode Title="EnumerationExtension Class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
     <HelpKINode Title="about EnumerationExtension class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
@@ -45,6 +39,8 @@
   </HelpKINode>
   <HelpKINode Title="FileExtension.GetFileMD5Hash method" Url="html/M_Nosnitor_FileExtension_GetFileMD5Hash.htm" />
   <HelpKINode Title="FileExtension.GetFileMD5HashString method" Url="html/M_Nosnitor_FileExtension_GetFileMD5HashString.htm" />
+  <HelpKINode Title="FileExtension.GetFileShaHash method" Url="html/M_Nosnitor_FileExtension_GetFileShaHash.htm" />
+  <HelpKINode Title="FileExtension.GetFileShaHashString method" Url="html/M_Nosnitor_FileExtension_GetFileShaHashString.htm" />
   <HelpKINode Title="GetAssemblyCompany method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCompany.htm" />
   <HelpKINode Title="GetAssemblyConfiguration method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyConfiguration.htm" />
   <HelpKINode Title="GetAssemblyCopyright method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyCopyright.htm" />
@@ -58,24 +54,26 @@
   <HelpKINode Title="GetAssemblyVersion method" Url="html/Overload_Nosnitor_AssemblyExtension_GetAssemblyVersion.htm" />
   <HelpKINode Title="GetFileMD5Hash method" Url="html/M_Nosnitor_FileExtension_GetFileMD5Hash.htm" />
   <HelpKINode Title="GetFileMD5HashString method" Url="html/M_Nosnitor_FileExtension_GetFileMD5HashString.htm" />
+  <HelpKINode Title="GetFileShaHash method" Url="html/M_Nosnitor_FileExtension_GetFileShaHash.htm" />
+  <HelpKINode Title="GetFileShaHashString method" Url="html/M_Nosnitor_FileExtension_GetFileShaHashString.htm" />
   <HelpKINode Title="GetStringResourceByName method" Url="html/M_Nosnitor_ResourceManagerExtension_GetStringResourceByName.htm" />
   <HelpKINode Title="GetValues(Of T) method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
   <HelpKINode Title="GetValues&lt;T&gt; method" Url="html/M_Nosnitor_EnumerationExtension_GetValues__1.htm" />
-  <HelpKINode Title="HexStringToByteArray method" Url="html/M_Nosnitor_Conversion_HexStringToByteArray.htm" />
-  <HelpKINode Title="IsHexString method" Url="html/M_Nosnitor_Comparison_IsHexString.htm" />
-  <HelpKINode Title="Manipulation class">
-    <HelpKINode Title="Manipulation Class" Url="html/T_Nosnitor_Manipulation.htm" />
-    <HelpKINode Title="about Manipulation class" Url="html/T_Nosnitor_Manipulation.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_Manipulation.htm" />
+  <HelpKINode Title="HexHelper class">
+    <HelpKINode Title="HexHelper Class" Url="html/T_Nosnitor_HexHelper.htm" />
+    <HelpKINode Title="about HexHelper class" Url="html/T_Nosnitor_HexHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_HexHelper.htm" />
   </HelpKINode>
-  <HelpKINode Title="Manipulation.CombineByteArray method" Url="html/M_Nosnitor_Manipulation_CombineByteArray.htm" />
+  <HelpKINode Title="HexHelper.HexStringToByteArray method" Url="html/M_Nosnitor_HexHelper_HexStringToByteArray.htm" />
+  <HelpKINode Title="HexHelper.IsHexString method" Url="html/M_Nosnitor_HexHelper_IsHexString.htm" />
+  <HelpKINode Title="HexStringToByteArray method" Url="html/M_Nosnitor_HexHelper_HexStringToByteArray.htm" />
+  <HelpKINode Title="IsHexString method" Url="html/M_Nosnitor_HexHelper_IsHexString.htm" />
   <HelpKINode Title="Nosnitor namespace" Url="html/N_Nosnitor.htm" />
   <HelpKINode Title="Nosnitor.AssemblyExtension class" Url="html/T_Nosnitor_AssemblyExtension.htm" />
-  <HelpKINode Title="Nosnitor.Comparison class" Url="html/T_Nosnitor_Comparison.htm" />
-  <HelpKINode Title="Nosnitor.Conversion class" Url="html/T_Nosnitor_Conversion.htm" />
+  <HelpKINode Title="Nosnitor.ByteArrayHelper class" Url="html/T_Nosnitor_ByteArrayHelper.htm" />
   <HelpKINode Title="Nosnitor.EnumerationExtension class" Url="html/T_Nosnitor_EnumerationExtension.htm" />
   <HelpKINode Title="Nosnitor.FileExtension class" Url="html/T_Nosnitor_FileExtension.htm" />
-  <HelpKINode Title="Nosnitor.Manipulation class" Url="html/T_Nosnitor_Manipulation.htm" />
+  <HelpKINode Title="Nosnitor.HexHelper class" Url="html/T_Nosnitor_HexHelper.htm" />
   <HelpKINode Title="Nosnitor.ResourceManagerExtension class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
   <HelpKINode Title="ResourceManagerExtension class">
     <HelpKINode Title="ResourceManagerExtension Class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
@@ -83,4 +81,12 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_ResourceManagerExtension.htm" />
   </HelpKINode>
   <HelpKINode Title="ResourceManagerExtension.GetStringResourceByName method" Url="html/M_Nosnitor_ResourceManagerExtension_GetStringResourceByName.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0" Url="html/f6e63335-c4ed-417d-a256-be64429da6c1.htm" />
+    <HelpKINode Title="1.0.1" Url="html/2d468b4a-87e1-467d-81b0-425205bf95ee.htm" />
+    <HelpKINode Title="1.1.0" Url="html/84e6fd71-3560-4e4c-bbd7-21f4a2ed6c90.htm" />
+    <HelpKINode Title="2.0.0" Url="html/0c52557c-4282-4441-85bf-eb802034500e.htm" />
+    <HelpKINode Title="history" Url="html/8c9ce885-c3ff-4d1a-95fe-9cc57b1dd3c5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/e4d02f61-6633-447b-b860-fb42bde14412.htm" />
 </HelpKI>
