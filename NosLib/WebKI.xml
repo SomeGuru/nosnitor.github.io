@@ -68,6 +68,7 @@
   <HelpKINode Title="HexHelper.IsHexString method" Url="html/M_Nosnitor_HexHelper_IsHexString.htm" />
   <HelpKINode Title="HexStringToByteArray method" Url="html/M_Nosnitor_HexHelper_HexStringToByteArray.htm" />
   <HelpKINode Title="IsHexString method" Url="html/M_Nosnitor_HexHelper_IsHexString.htm" />
+  <HelpKINode Title="NameThread method" Url="html/M_Nosnitor_ThreadExtension_NameThread.htm" />
   <HelpKINode Title="Nosnitor namespace" Url="html/N_Nosnitor.htm" />
   <HelpKINode Title="Nosnitor.AssemblyExtension class" Url="html/T_Nosnitor_AssemblyExtension.htm" />
   <HelpKINode Title="Nosnitor.ByteArrayHelper class" Url="html/T_Nosnitor_ByteArrayHelper.htm" />
@@ -75,12 +76,21 @@
   <HelpKINode Title="Nosnitor.FileExtension class" Url="html/T_Nosnitor_FileExtension.htm" />
   <HelpKINode Title="Nosnitor.HexHelper class" Url="html/T_Nosnitor_HexHelper.htm" />
   <HelpKINode Title="Nosnitor.ResourceManagerExtension class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
+  <HelpKINode Title="Nosnitor.ThreadExtension class" Url="html/T_Nosnitor_ThreadExtension.htm" />
   <HelpKINode Title="ResourceManagerExtension class">
     <HelpKINode Title="ResourceManagerExtension Class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
     <HelpKINode Title="about ResourceManagerExtension class" Url="html/T_Nosnitor_ResourceManagerExtension.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_ResourceManagerExtension.htm" />
   </HelpKINode>
   <HelpKINode Title="ResourceManagerExtension.GetStringResourceByName method" Url="html/M_Nosnitor_ResourceManagerExtension_GetStringResourceByName.htm" />
+  <HelpKINode Title="ThreadExtension class">
+    <HelpKINode Title="ThreadExtension Class" Url="html/T_Nosnitor_ThreadExtension.htm" />
+    <HelpKINode Title="about ThreadExtension class" Url="html/T_Nosnitor_ThreadExtension.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Nosnitor_ThreadExtension__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Nosnitor_ThreadExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThreadExtension.NameThread method" Url="html/M_Nosnitor_ThreadExtension_NameThread.htm" />
+  <HelpKINode Title="ThreadExtension.ThreadExtension constructor" Url="html/M_Nosnitor_ThreadExtension__ctor.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0" Url="html/f6e63335-c4ed-417d-a256-be64429da6c1.htm" />
     <HelpKINode Title="1.0.1" Url="html/2d468b4a-87e1-467d-81b0-425205bf95ee.htm" />
