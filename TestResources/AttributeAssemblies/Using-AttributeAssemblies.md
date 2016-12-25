@@ -1,6 +1,6 @@
 # Using Nosnitor.TestResources.AttributeAssemblies #
 
-The AttributeAssemblies package contains binaries with different values set for the AssemblyAttribues in the assembly manifest. These binaries can be used for testing methods that access these attributes.
+The AttributeAssemblies package contains binaries with different values set for the AssemblyAttributes in the assembly manifest. These binaries can be used for testing methods that access these attributes.
 
 ## Installation ##
 
